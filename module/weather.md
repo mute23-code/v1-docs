@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/asset/style.css" />
+<link rel="stylesheet" href="/v1-docs/asset/style.css" />
 
 # 查询天气
 <p><span class="span-friend">私聊</span>  <span class="span-group">群聊</span></p>
