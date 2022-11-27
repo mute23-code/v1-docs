@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/asset/style.css" />
+<link rel="stylesheet" href="/v1-docs/asset/style.css" />
 
 # 表情包
 <span class="span-friend">私聊</span>
