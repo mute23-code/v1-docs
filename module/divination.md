@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/asset/style.css" />
+<link rel="stylesheet" href="/v1-docs/asset/style.css" />
 
 # 占卜
 <span class="span-group">群聊</span>
