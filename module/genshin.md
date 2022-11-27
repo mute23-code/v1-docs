@@ -1,6 +1,6 @@
 # 原神
 
-<link rel="stylesheet" href="/asset/style.css" />
+<link rel="stylesheet" href="/v1-docs/asset/style.css" />
 
 <span class="span-group">群聊</span>
 
