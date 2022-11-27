@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/asset/style.css" />
+<link rel="stylesheet" href="/v1-docs/asset/style.css" />
 
 # 阅读提示
 此页面可以帮助您更好地理解文档。
