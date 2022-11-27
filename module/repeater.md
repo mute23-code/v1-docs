@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/asset/style.css" />
+<link rel="stylesheet" href="/v1-docs/asset/style.css" />
 
 # 问答
 <p><span class="span-admin">群管理员</span>  <span class="span-group">群主</span>  <span class="span-bot-admin">Bot 管理员</span>  <span class="span-bot-helper">Bot 协助者</span></p>
