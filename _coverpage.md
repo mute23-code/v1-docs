@@ -6,7 +6,7 @@
 - 实用功能
 - 趣味游戏
 
-[v2.x 文档](#)
+[v2.x 文档](https://mute23-code.github.io/v2-docs/)
 [开始使用](?id=林汐)
 
 ![](cover.jpg)
