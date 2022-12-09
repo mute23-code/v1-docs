@@ -10,9 +10,10 @@
 
 ## 联系我们
 ----
-QQ 官方群：413820772  
-反馈中心：<a href="https://support.qq.com/product/423251" target="_blank" style="text-decoration:none;">https://support.qq.com/product/423251</a>  
-<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=IzcgSO2oNhbkrbCMFtQigRsE4a7Z6fSS&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="413820772" title="413820772"></a>
+QQ 官方群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=IzcgSO2oNhbkrbCMFtQigRsE4a7Z6fSS&jump_from=webapi" style="text-decoration:none;">413820772</a>  
+反馈中心：<a href="https://afdian.net/group/2db5e08a77b411edb64052540025c377" target="_blank" style="text-decoration:none;">进入『电圈』</a>  
+
+
 
 
 ## 特别鸣谢
